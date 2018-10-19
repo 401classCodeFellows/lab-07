@@ -22,7 +22,7 @@
 **RESTy Client**
 
 * Add a `<textarea>` so the user can input JSON
-* Add a `<select>` so the user can select their REST Method
+* Add a `<select>` so the user can select their REST Methodˇ
 * Change the API call to send the right method and the JSON body
 
 ###### Testing
